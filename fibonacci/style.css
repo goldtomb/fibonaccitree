@@ -1,0 +1,21 @@
+body {
+    background-image: url(fib.jpg);
+    background-size: cover;
+    background-blend-mode: exclusion
+    background-repeat: no-repeat;
+    max-width: 100%;
+}
+
+.col-sm-12 {
+    display: block;
+    margin: auto;
+    text-align: center;
+    line-height: 1;
+    color: white;
+    font-size: 20px;
+
+}
+
+.result {
+    width: 100%;
+}
